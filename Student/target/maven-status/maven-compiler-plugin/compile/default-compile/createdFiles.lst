@@ -1,0 +1,9 @@
+ua\edu\student\Custom\Subject.class
+ua\edu\student\Custom\Utils.class
+ua\edu\student\Servlet\StatAdd.class
+ua\edu\student\CustomExceptions\AverageException.class
+ua\edu\student\CustomExceptions\EmailException.class
+ua\edu\student\Custom\ResultCalculation.class
+ua\edu\student\Servlet\StudentAdd.class
+ua\edu\student\Custom\Document.class
+ua\edu\student\Custom\Student.class
